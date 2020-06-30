@@ -3,7 +3,7 @@
     "AthenaQuestProp.Mimic.FortHealthSet.Maxhealth": {
       "InterpMode": {
         "Position": 58,
-        "Value": 24
+        "Value": 25
       },
       "Keys": {
         "Position": 99,
@@ -23,17 +23,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 222,
-        "Value": 23
+        "Value": 24
       },
       "PostInfinityExtrap": {
         "Position": 263,
-        "Value": 23
+        "Value": 24
       }
     },
     "AthenaQuestProp.MegaHealth.FortHealthSet.Maxhealth": {
       "InterpMode": {
         "Position": 320,
-        "Value": 24
+        "Value": 25
       },
       "Keys": {
         "Position": 361,
@@ -53,17 +53,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 484,
-        "Value": 23
+        "Value": 24
       },
       "PostInfinityExtrap": {
         "Position": 525,
-        "Value": 23
+        "Value": 24
       }
     },
     "AthenaQuestProp.FortuneTeller.Medium.Duration": {
       "InterpMode": {
         "Position": 582,
-        "Value": 24
+        "Value": 25
       },
       "Keys": {
         "Position": 623,
@@ -83,17 +83,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 746,
-        "Value": 23
+        "Value": 24
       },
       "PostInfinityExtrap": {
         "Position": 787,
-        "Value": 23
+        "Value": 24
       }
     },
     "AthenaQuestProp.FortuneTeller.Short.Duration": {
       "InterpMode": {
         "Position": 844,
-        "Value": 24
+        "Value": 25
       },
       "Keys": {
         "Position": 885,
@@ -113,11 +113,41 @@
       },
       "PreInfinityExtrap": {
         "Position": 1008,
-        "Value": 23
+        "Value": 24
       },
       "PostInfinityExtrap": {
         "Position": 1049,
-        "Value": 23
+        "Value": 24
+      }
+    },
+    "AthenaQuestProp.SandCastle.Interact.Speed": {
+      "InterpMode": {
+        "Position": 1106,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 1147,
+        "Value": [
+          {
+            "Position": 1200,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 7.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1233,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1270,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1311,
+        "Value": 24
       }
     }
   }

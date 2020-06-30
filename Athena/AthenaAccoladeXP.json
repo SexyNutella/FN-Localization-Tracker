@@ -3,7 +3,7 @@
     "Default_Basic": {
       "InterpMode": {
         "Position": 58,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 99,
@@ -23,17 +23,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 222,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 263,
-        "Value": 106
+        "Value": 107
       }
     },
     "Default_Medal": {
       "InterpMode": {
         "Position": 320,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 361,
@@ -53,17 +53,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 484,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 525,
-        "Value": 106
+        "Value": 107
       }
     },
     "Default_Special": {
       "InterpMode": {
         "Position": 582,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 623,
@@ -83,17 +83,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 746,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 787,
-        "Value": 106
+        "Value": 107
       }
     },
     "Default_ChallengeObjective": {
       "InterpMode": {
         "Position": 844,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 885,
@@ -113,17 +113,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 1008,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 1049,
-        "Value": 106
+        "Value": 107
       }
     },
     "Default_POI": {
       "InterpMode": {
         "Position": 1106,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 1147,
@@ -132,7 +132,7 @@
             "Position": 1200,
             "Value": {
               "KeyTime": 1.0,
-              "KeyValue": 500.0
+              "KeyValue": 8000.0
             }
           }
         ]
@@ -143,17 +143,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 1270,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 1311,
-        "Value": 106
+        "Value": 107
       }
     },
     "Default_Landmark": {
       "InterpMode": {
         "Position": 1368,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 1409,
@@ -162,7 +162,7 @@
             "Position": 1462,
             "Value": {
               "KeyTime": 1.0,
-              "KeyValue": 500.0
+              "KeyValue": 1000.0
             }
           }
         ]
@@ -173,17 +173,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 1532,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 1573,
-        "Value": 106
+        "Value": 107
       }
     },
     "Reboot": {
       "InterpMode": {
         "Position": 1630,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 1671,
@@ -203,17 +203,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 1794,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 1835,
-        "Value": 106
+        "Value": 107
       }
     },
     "SupplyLlamaInteract": {
       "InterpMode": {
         "Position": 1892,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 1933,
@@ -233,17 +233,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 2056,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 2097,
-        "Value": 106
+        "Value": 107
       }
     },
     "ForageableInteract": {
       "InterpMode": {
         "Position": 2154,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 2195,
@@ -263,17 +263,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 2318,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 2359,
-        "Value": 106
+        "Value": 107
       }
     },
     "SupplyDropInteract": {
       "InterpMode": {
         "Position": 2416,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 2457,
@@ -293,17 +293,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 2580,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 2621,
-        "Value": 106
+        "Value": 107
       }
     },
     "SupplyDropInteract_Infiltrate": {
       "InterpMode": {
         "Position": 2678,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 2719,
@@ -323,17 +323,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 2842,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 2883,
-        "Value": 106
+        "Value": 107
       }
     },
     "RevivePlayer": {
       "InterpMode": {
         "Position": 2940,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 2981,
@@ -353,17 +353,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 3104,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 3145,
-        "Value": 106
+        "Value": 107
       }
     },
     "AssistElim": {
       "InterpMode": {
         "Position": 3202,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 3243,
@@ -383,17 +383,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 3366,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 3407,
-        "Value": 106
+        "Value": 107
       }
     },
     "Elimination": {
       "InterpMode": {
         "Position": 3464,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 3505,
@@ -413,17 +413,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 3628,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 3669,
-        "Value": 106
+        "Value": 107
       }
     },
     "TreasureChestInteract": {
       "InterpMode": {
         "Position": 3726,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 3767,
@@ -443,17 +443,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 3890,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 3931,
-        "Value": 106
+        "Value": 107
       }
     },
     "AmmoBoxInteract": {
       "InterpMode": {
         "Position": 3988,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 4029,
@@ -473,17 +473,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 4152,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 4193,
-        "Value": 106
+        "Value": 107
       }
     },
     "ReachNewCircle": {
       "InterpMode": {
         "Position": 4250,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 4291,
@@ -503,17 +503,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 4414,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 4455,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstElim": {
       "InterpMode": {
         "Position": 4512,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 4553,
@@ -533,17 +533,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 4676,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 4717,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstLanding": {
       "InterpMode": {
         "Position": 4774,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 4815,
@@ -563,17 +563,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 4938,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 4979,
-        "Value": 106
+        "Value": 107
       }
     },
     "HeadshotElim": {
       "InterpMode": {
         "Position": 5036,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 5077,
@@ -593,17 +593,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 5200,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 5241,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzeScavenger": {
       "InterpMode": {
         "Position": 5298,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 5339,
@@ -623,17 +623,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 5462,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 5503,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverScavenger": {
       "InterpMode": {
         "Position": 5560,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 5601,
@@ -653,17 +653,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 5724,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 5765,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldScavenger": {
       "InterpMode": {
         "Position": 5822,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 5863,
@@ -683,17 +683,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 5986,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 6027,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzeEliminator": {
       "InterpMode": {
         "Position": 6084,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 6125,
@@ -713,17 +713,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 6248,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 6289,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverEliminator": {
       "InterpMode": {
         "Position": 6346,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 6387,
@@ -743,17 +743,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 6510,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 6551,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldEliminator": {
       "InterpMode": {
         "Position": 6608,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 6649,
@@ -773,17 +773,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 6772,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 6813,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzeSupporter": {
       "InterpMode": {
         "Position": 6870,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 6911,
@@ -803,17 +803,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 7034,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 7075,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverSupporter": {
       "InterpMode": {
         "Position": 7132,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 7173,
@@ -833,17 +833,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 7296,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 7337,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldSupporter": {
       "InterpMode": {
         "Position": 7394,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 7435,
@@ -863,17 +863,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 7558,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 7599,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzePlacement": {
       "InterpMode": {
         "Position": 7656,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 7697,
@@ -893,17 +893,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 7820,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 7861,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverPlacement": {
       "InterpMode": {
         "Position": 7918,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 7959,
@@ -923,17 +923,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 8082,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 8123,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldPlacement": {
       "InterpMode": {
         "Position": 8180,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 8221,
@@ -953,17 +953,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 8344,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 8385,
-        "Value": 106
+        "Value": 107
       }
     },
     "Playtime": {
       "InterpMode": {
         "Position": 8442,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 8483,
@@ -983,17 +983,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 8606,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 8647,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstMatchOfDay": {
       "InterpMode": {
         "Position": 8704,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 8745,
@@ -1013,17 +1013,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 8868,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 8909,
-        "Value": 106
+        "Value": 107
       }
     },
     "WeaponUpgrade": {
       "InterpMode": {
         "Position": 8966,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 9007,
@@ -1043,17 +1043,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 9130,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 9171,
-        "Value": 106
+        "Value": 107
       }
     },
     "WeaponSidegrade": {
       "InterpMode": {
         "Position": 9228,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 9269,
@@ -1073,17 +1073,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 9392,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 9433,
-        "Value": 106
+        "Value": 107
       }
     },
     "FishingSpot": {
       "InterpMode": {
         "Position": 9490,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 9531,
@@ -1103,17 +1103,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 9654,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 9695,
-        "Value": 106
+        "Value": 107
       }
     },
     "WeakSpotStreak": {
       "InterpMode": {
         "Position": 9752,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 9793,
@@ -1133,17 +1133,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 9916,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 9957,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzeScavengerRumble": {
       "InterpMode": {
         "Position": 10014,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 10055,
@@ -1163,17 +1163,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 10178,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 10219,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverScavengerRumble": {
       "InterpMode": {
         "Position": 10276,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 10317,
@@ -1193,17 +1193,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 10440,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 10481,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldScavengerRumble": {
       "InterpMode": {
         "Position": 10538,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 10579,
@@ -1223,17 +1223,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 10702,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 10743,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzeEliminatorRumble": {
       "InterpMode": {
         "Position": 10800,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 10841,
@@ -1253,17 +1253,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 10964,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 11005,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverEliminatorRumble": {
       "InterpMode": {
         "Position": 11062,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 11103,
@@ -1283,17 +1283,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 11226,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 11267,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldEliminatorRumble": {
       "InterpMode": {
         "Position": 11324,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 11365,
@@ -1313,17 +1313,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 11488,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 11529,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzeSupporterRumble": {
       "InterpMode": {
         "Position": 11586,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 11627,
@@ -1343,17 +1343,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 11750,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 11791,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverSupporterRumble": {
       "InterpMode": {
         "Position": 11848,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 11889,
@@ -1373,17 +1373,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 12012,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 12053,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldSupporterRumble": {
       "InterpMode": {
         "Position": 12110,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 12151,
@@ -1403,17 +1403,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 12274,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 12315,
-        "Value": 106
+        "Value": 107
       }
     },
     "BronzeScoreRumble": {
       "InterpMode": {
         "Position": 12372,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 12413,
@@ -1433,17 +1433,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 12536,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 12577,
-        "Value": 106
+        "Value": 107
       }
     },
     "SilverScoreRumble": {
       "InterpMode": {
         "Position": 12634,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 12675,
@@ -1463,17 +1463,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 12798,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 12839,
-        "Value": 106
+        "Value": 107
       }
     },
     "GoldScoreRumble": {
       "InterpMode": {
         "Position": 12896,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 12937,
@@ -1493,17 +1493,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 13060,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 13101,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstTreasureChest": {
       "InterpMode": {
         "Position": 13158,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 13199,
@@ -1523,17 +1523,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 13322,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 13363,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstSupplyDrop": {
       "InterpMode": {
         "Position": 13420,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 13461,
@@ -1553,17 +1553,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 13584,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 13625,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstDeath": {
       "InterpMode": {
         "Position": 13682,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 13723,
@@ -1583,17 +1583,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 13846,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 13887,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstFishCatch": {
       "InterpMode": {
         "Position": 13944,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 13985,
@@ -1613,17 +1613,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 14108,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 14149,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstWeaponUpgrade": {
       "InterpMode": {
         "Position": 14206,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 14247,
@@ -1643,17 +1643,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 14370,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 14411,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstLegendaryAcquire": {
       "InterpMode": {
         "Position": 14468,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 14509,
@@ -1673,17 +1673,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 14632,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 14673,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstGoldenPOI": {
       "InterpMode": {
         "Position": 14730,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 14771,
@@ -1703,17 +1703,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 14894,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 14935,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstFullyHealed": {
       "InterpMode": {
         "Position": 14992,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 15033,
@@ -1733,17 +1733,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 15156,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 15197,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstBush": {
       "InterpMode": {
         "Position": 15254,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 15295,
@@ -1763,17 +1763,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 15418,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 15459,
-        "Value": 106
+        "Value": 107
       }
     },
     "FirstGoldScavenger": {
       "InterpMode": {
         "Position": 15516,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 15557,
@@ -1793,17 +1793,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 15680,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 15721,
-        "Value": 106
+        "Value": 107
       }
     },
     "Killstreak2": {
       "InterpMode": {
         "Position": 15778,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 15819,
@@ -1823,17 +1823,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 15942,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 15983,
-        "Value": 106
+        "Value": 107
       }
     },
     "Killstreak3": {
       "InterpMode": {
         "Position": 16040,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 16081,
@@ -1853,17 +1853,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 16204,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 16245,
-        "Value": 106
+        "Value": 107
       }
     },
     "Killstreak4": {
       "InterpMode": {
         "Position": 16302,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 16343,
@@ -1883,17 +1883,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 16466,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 16507,
-        "Value": 106
+        "Value": 107
       }
     },
     "Killstreak5": {
       "InterpMode": {
         "Position": 16564,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 16605,
@@ -1913,17 +1913,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 16728,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 16769,
-        "Value": 106
+        "Value": 107
       }
     },
     "Killstreak6": {
       "InterpMode": {
         "Position": 16826,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 16867,
@@ -1943,17 +1943,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 16990,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 17031,
-        "Value": 106
+        "Value": 107
       }
     },
     "TotalElim10": {
       "InterpMode": {
         "Position": 17088,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 17129,
@@ -1973,17 +1973,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 17252,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 17293,
-        "Value": 106
+        "Value": 107
       }
     },
     "TotalElim13": {
       "InterpMode": {
         "Position": 17350,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 17391,
@@ -2003,17 +2003,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 17514,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 17555,
-        "Value": 106
+        "Value": 107
       }
     },
     "TotalElim16": {
       "InterpMode": {
         "Position": 17612,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 17653,
@@ -2033,17 +2033,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 17776,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 17817,
-        "Value": 106
+        "Value": 107
       }
     },
     "TotalElim20": {
       "InterpMode": {
         "Position": 17874,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 17915,
@@ -2063,17 +2063,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 18038,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 18079,
-        "Value": 106
+        "Value": 107
       }
     },
     "TotalElim30": {
       "InterpMode": {
         "Position": 18136,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 18177,
@@ -2093,17 +2093,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 18300,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 18341,
-        "Value": 106
+        "Value": 107
       }
     },
     "TotalElim40": {
       "InterpMode": {
         "Position": 18398,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 18439,
@@ -2123,17 +2123,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 18562,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 18603,
-        "Value": 106
+        "Value": 107
       }
     },
     "TotalElim50": {
       "InterpMode": {
         "Position": 18660,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 18701,
@@ -2153,17 +2153,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 18824,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 18865,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageExplosiveT1": {
       "InterpMode": {
         "Position": 18922,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 18963,
@@ -2183,17 +2183,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 19086,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 19127,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageExplosiveT2": {
       "InterpMode": {
         "Position": 19184,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 19225,
@@ -2213,17 +2213,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 19348,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 19389,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamagePistolT1": {
       "InterpMode": {
         "Position": 19446,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 19487,
@@ -2243,17 +2243,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 19610,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 19651,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamagePistolT2": {
       "InterpMode": {
         "Position": 19708,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 19749,
@@ -2273,17 +2273,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 19872,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 19913,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageSMGT1": {
       "InterpMode": {
         "Position": 19970,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 20011,
@@ -2303,17 +2303,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 20134,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 20175,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageSMGT2": {
       "InterpMode": {
         "Position": 20232,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 20273,
@@ -2333,17 +2333,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 20396,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 20437,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamagePickaxeT1": {
       "InterpMode": {
         "Position": 20494,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 20535,
@@ -2363,17 +2363,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 20658,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 20699,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamagePickaxeT2": {
       "InterpMode": {
         "Position": 20756,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 20797,
@@ -2393,17 +2393,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 20920,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 20961,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageShotgunT1": {
       "InterpMode": {
         "Position": 21018,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 21059,
@@ -2423,17 +2423,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 21182,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 21223,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageShotgunT2": {
       "InterpMode": {
         "Position": 21280,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 21321,
@@ -2453,17 +2453,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 21444,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 21485,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageAssaultT1": {
       "InterpMode": {
         "Position": 21542,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 21583,
@@ -2483,17 +2483,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 21706,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 21747,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageAssaultT2": {
       "InterpMode": {
         "Position": 21804,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 21845,
@@ -2513,17 +2513,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 21968,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 22009,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageSniperT1": {
       "InterpMode": {
         "Position": 22066,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 22107,
@@ -2543,17 +2543,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 22230,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 22271,
-        "Value": 106
+        "Value": 107
       }
     },
     "DamageSniperT2": {
       "InterpMode": {
         "Position": 22328,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 22369,
@@ -2573,17 +2573,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 22492,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 22533,
-        "Value": 106
+        "Value": 107
       }
     },
     "HealTeammateT1": {
       "InterpMode": {
         "Position": 22590,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 22631,
@@ -2603,17 +2603,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 22754,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 22795,
-        "Value": 106
+        "Value": 107
       }
     },
     "HealTeammateT2": {
       "InterpMode": {
         "Position": 22852,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 22893,
@@ -2633,17 +2633,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 23016,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 23057,
-        "Value": 106
+        "Value": 107
       }
     },
     "DistanceElimT1": {
       "InterpMode": {
         "Position": 23114,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 23155,
@@ -2663,17 +2663,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 23278,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 23319,
-        "Value": 106
+        "Value": 107
       }
     },
     "DistanceElimT2": {
       "InterpMode": {
         "Position": 23376,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 23417,
@@ -2693,17 +2693,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 23540,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 23581,
-        "Value": 106
+        "Value": 107
       }
     },
     "DistanceElimT3": {
       "InterpMode": {
         "Position": 23638,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 23679,
@@ -2723,17 +2723,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 23802,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 23843,
-        "Value": 106
+        "Value": 107
       }
     },
     "DistanceElimT4": {
       "InterpMode": {
         "Position": 23900,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 23941,
@@ -2753,17 +2753,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 24064,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 24105,
-        "Value": 106
+        "Value": 107
       }
     },
     "TrapElim": {
       "InterpMode": {
         "Position": 24162,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 24203,
@@ -2783,17 +2783,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 24326,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 24367,
-        "Value": 106
+        "Value": 107
       }
     },
     "MultiHeadshotElim": {
       "InterpMode": {
         "Position": 24424,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 24465,
@@ -2813,17 +2813,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 24588,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 24629,
-        "Value": 106
+        "Value": 107
       }
     },
     "NoScope": {
       "InterpMode": {
         "Position": 24686,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 24727,
@@ -2843,17 +2843,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 24850,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 24891,
-        "Value": 106
+        "Value": 107
       }
     },
     "WatchYourStep": {
       "InterpMode": {
         "Position": 24948,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 24989,
@@ -2873,17 +2873,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 25112,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 25153,
-        "Value": 106
+        "Value": 107
       }
     },
     "Payback": {
       "InterpMode": {
         "Position": 25210,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 25251,
@@ -2903,17 +2903,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 25374,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 25415,
-        "Value": 106
+        "Value": 107
       }
     },
     "StayDown": {
       "InterpMode": {
         "Position": 25472,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 25513,
@@ -2933,17 +2933,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 25636,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 25677,
-        "Value": 106
+        "Value": 107
       }
     },
     "Hijack": {
       "InterpMode": {
         "Position": 25734,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 25775,
@@ -2963,17 +2963,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 25898,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 25939,
-        "Value": 106
+        "Value": 107
       }
     },
     "PlaytimeCreative": {
       "InterpMode": {
         "Position": 25996,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 26037,
@@ -2993,17 +2993,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 26160,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 26201,
-        "Value": 106
+        "Value": 107
       }
     },
     "Knockdown": {
       "InterpMode": {
         "Position": 26258,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 26299,
@@ -3023,17 +3023,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 26422,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 26463,
-        "Value": 106
+        "Value": 107
       }
     },
     "StormKingHorn": {
       "InterpMode": {
         "Position": 26520,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 26561,
@@ -3053,17 +3053,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 26684,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 26725,
-        "Value": 106
+        "Value": 107
       }
     },
     "StormKingKill": {
       "InterpMode": {
         "Position": 26782,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 26823,
@@ -3083,17 +3083,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 26946,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 26987,
-        "Value": 106
+        "Value": 107
       }
     },
     "StormKingWeakSpot": {
       "InterpMode": {
         "Position": 27044,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 27085,
@@ -3113,17 +3113,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 27208,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 27249,
-        "Value": 106
+        "Value": 107
       }
     },
     "MonsterKill": {
       "InterpMode": {
         "Position": 27306,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 27347,
@@ -3143,17 +3143,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 27470,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 27511,
-        "Value": 106
+        "Value": 107
       }
     },
     "Blindshot": {
       "InterpMode": {
         "Position": 27568,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 27609,
@@ -3173,17 +3173,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 27732,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 27773,
-        "Value": 106
+        "Value": 107
       }
     },
     "Afterlife": {
       "InterpMode": {
         "Position": 27830,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 27871,
@@ -3203,17 +3203,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 27994,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 28035,
-        "Value": 106
+        "Value": 107
       }
     },
     "BossElim": {
       "InterpMode": {
         "Position": 28092,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 28133,
@@ -3233,17 +3233,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 28256,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 28297,
-        "Value": 106
+        "Value": 107
       }
     },
     "OpenVault": {
       "InterpMode": {
         "Position": 28354,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 28395,
@@ -3263,17 +3263,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 28518,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 28559,
-        "Value": 106
+        "Value": 107
       }
     },
     "MangElim": {
       "InterpMode": {
         "Position": 28616,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 28657,
@@ -3293,17 +3293,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 28780,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 28821,
-        "Value": 106
+        "Value": 107
       }
     },
     "Interrogate": {
       "InterpMode": {
         "Position": 28878,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 28919,
@@ -3323,17 +3323,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 29042,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 29083,
-        "Value": 106
+        "Value": 107
       }
     },
     "ScanOpponent": {
       "InterpMode": {
         "Position": 29140,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 29181,
@@ -3353,17 +3353,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 29304,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 29345,
-        "Value": 106
+        "Value": 107
       }
     },
     "OpenFactionChest": {
       "InterpMode": {
         "Position": 29402,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 29443,
@@ -3383,17 +3383,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 29566,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 29607,
-        "Value": 106
+        "Value": 107
       }
     },
     "XPToken_Placed": {
       "InterpMode": {
         "Position": 29664,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 29705,
@@ -3413,17 +3413,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 29828,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 29869,
-        "Value": 106
+        "Value": 107
       }
     },
     "XPToken_Random": {
       "InterpMode": {
         "Position": 29926,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 29967,
@@ -3443,17 +3443,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 30090,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 30131,
-        "Value": 106
+        "Value": 107
       }
     },
     "XPToken_Exploding": {
       "InterpMode": {
         "Position": 30188,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 30229,
@@ -3473,17 +3473,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 30352,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 30393,
-        "Value": 106
+        "Value": 107
       }
     },
     "XPToken_ExplodingComboBonus": {
       "InterpMode": {
         "Position": 30450,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 30491,
@@ -3503,17 +3503,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 30614,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 30655,
-        "Value": 106
+        "Value": 107
       }
     },
     "XPToken_Gold": {
       "InterpMode": {
         "Position": 30712,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 30753,
@@ -3533,17 +3533,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 30876,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 30917,
-        "Value": 106
+        "Value": 107
       }
     },
     "CreativeMode_15mMedal": {
       "InterpMode": {
         "Position": 30974,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 31015,
@@ -3563,17 +3563,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 31138,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 31179,
-        "Value": 106
+        "Value": 107
       }
     },
     "ElimGhost": {
       "InterpMode": {
         "Position": 31236,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 31277,
@@ -3593,17 +3593,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 31400,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 31441,
-        "Value": 106
+        "Value": 107
       }
     },
     "ElimShadow": {
       "InterpMode": {
         "Position": 31498,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 31539,
@@ -3623,17 +3623,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 31662,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 31703,
-        "Value": 106
+        "Value": 107
       }
     },
     "HoneyPotInteract": {
       "InterpMode": {
         "Position": 31760,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 31801,
@@ -3653,17 +3653,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 31924,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 31965,
-        "Value": 106
+        "Value": 107
       }
     },
     "GibsonElim": {
       "InterpMode": {
         "Position": 32022,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 32063,
@@ -3683,17 +3683,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 32186,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 32227,
-        "Value": 106
+        "Value": 107
       }
     },
     "SecretPassage": {
       "InterpMode": {
         "Position": 32284,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 32325,
@@ -3713,17 +3713,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 32448,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 32489,
-        "Value": 106
+        "Value": 107
       }
     },
     "Savior": {
       "InterpMode": {
         "Position": 32546,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 32587,
@@ -3743,17 +3743,17 @@
       },
       "PreInfinityExtrap": {
         "Position": 32710,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 32751,
-        "Value": 106
+        "Value": 107
       }
     },
     "Avenger": {
       "InterpMode": {
         "Position": 32808,
-        "Value": 107
+        "Value": 108
       },
       "Keys": {
         "Position": 32849,
@@ -3773,11 +3773,41 @@
       },
       "PreInfinityExtrap": {
         "Position": 32972,
-        "Value": 106
+        "Value": 107
       },
       "PostInfinityExtrap": {
         "Position": 33013,
-        "Value": 106
+        "Value": 107
+      }
+    },
+    "ElimWithShark": {
+      "InterpMode": {
+        "Position": 33070,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 33111,
+        "Value": [
+          {
+            "Position": 33164,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 120.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 33197,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 33234,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 33275,
+        "Value": 107
       }
     }
   }
