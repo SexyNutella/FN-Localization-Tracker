@@ -10620,12 +10620,12 @@
           "Text": {
             "Namespace": "CosmeticSets",
             "Key": "Cosmetics.Set.TwoActor_DisplayName",
-            "SourceString": "Dual Agent"
+            "SourceString": "Double Agent"
           }
         }
       },
       "Description": {
-        "Position": 83643,
+        "Position": 83645,
         "Value": {
           "Text": {
             "CultureInvariantString": null
@@ -10635,10 +10635,10 @@
     },
     "Cosmetics.Set.FearlessMotor": {
       "Tag": {
-        "Position": 83717,
+        "Position": 83719,
         "Value": {
           "TagName": {
-            "Position": 83742,
+            "Position": 83744,
             "Value": {
               "String": "Cosmetics.Set.FearlessMotor"
             }
@@ -10646,7 +10646,7 @@
         }
       },
       "DisplayName": {
-        "Position": 83783,
+        "Position": 83785,
         "Value": {
           "Text": {
             "Namespace": "CosmeticSets",
@@ -10656,7 +10656,7 @@
         }
       },
       "Description": {
-        "Position": 83895,
+        "Position": 83897,
         "Value": {
           "Text": {
             "CultureInvariantString": null
@@ -10666,10 +10666,10 @@
     },
     "Cosmetics.Set.MechDoggo": {
       "Tag": {
-        "Position": 83969,
+        "Position": 83971,
         "Value": {
           "TagName": {
-            "Position": 83994,
+            "Position": 83996,
             "Value": {
               "String": "Cosmetics.Set.MechDoggo"
             }
@@ -10677,7 +10677,7 @@
         }
       },
       "DisplayName": {
-        "Position": 84035,
+        "Position": 84037,
         "Value": {
           "Text": {
             "Namespace": "CosmeticSets",
@@ -10687,7 +10687,7 @@
         }
       },
       "Description": {
-        "Position": 84138,
+        "Position": 84140,
         "Value": {
           "Text": {
             "CultureInvariantString": null
@@ -10697,10 +10697,10 @@
     },
     "Cosmetics.Set.Buccaneer": {
       "Tag": {
-        "Position": 84212,
+        "Position": 84214,
         "Value": {
           "TagName": {
-            "Position": 84237,
+            "Position": 84239,
             "Value": {
               "String": "Cosmetics.Set.Buccaneer"
             }
@@ -10708,7 +10708,7 @@
         }
       },
       "DisplayName": {
-        "Position": 84278,
+        "Position": 84280,
         "Value": {
           "Text": {
             "Namespace": "CosmeticSets",
@@ -10718,7 +10718,7 @@
         }
       },
       "Description": {
-        "Position": 84378,
+        "Position": 84380,
         "Value": {
           "Text": {
             "CultureInvariantString": null
@@ -10728,10 +10728,10 @@
     },
     "Cosmetics.Set.BurstAccident": {
       "Tag": {
-        "Position": 84452,
+        "Position": 84454,
         "Value": {
           "TagName": {
-            "Position": 84477,
+            "Position": 84479,
             "Value": {
               "String": "Cosmetics.Set.BurstAccident"
             }
@@ -10739,7 +10739,7 @@
         }
       },
       "DisplayName": {
-        "Position": 84518,
+        "Position": 84520,
         "Value": {
           "Text": {
             "Namespace": "CosmeticSets",
@@ -10749,7 +10749,7 @@
         }
       },
       "Description": {
-        "Position": 84627,
+        "Position": 84629,
         "Value": {
           "Text": {
             "CultureInvariantString": null
@@ -10759,10 +10759,10 @@
     },
     "Cosmetics.Set.Garbo": {
       "Tag": {
-        "Position": 84701,
+        "Position": 84703,
         "Value": {
           "TagName": {
-            "Position": 84726,
+            "Position": 84728,
             "Value": {
               "String": "Cosmetics.Set.Garbo"
             }
@@ -10770,7 +10770,7 @@
         }
       },
       "DisplayName": {
-        "Position": 84767,
+        "Position": 84769,
         "Value": {
           "Text": {
             "Namespace": "CosmeticSets",
@@ -10780,7 +10780,441 @@
         }
       },
       "Description": {
-        "Position": 84861,
+        "Position": 84863,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.RoughStreet": {
+      "Tag": {
+        "Position": 84937,
+        "Value": {
+          "TagName": {
+            "Position": 84962,
+            "Value": {
+              "String": "Cosmetics.Set.RoughStreet"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 85003,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.RoughStreet_DisplayName",
+            "SourceString": "Hard Road"
+          }
+        }
+      },
+      "Description": {
+        "Position": 85106,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.CasualSize": {
+      "Tag": {
+        "Position": 85180,
+        "Value": {
+          "TagName": {
+            "Position": 85205,
+            "Value": {
+              "String": "Cosmetics.Set.CasualSize"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 85246,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.CasualSize_DisplayName",
+            "SourceString": "Relaxed Fit"
+          }
+        }
+      },
+      "Description": {
+        "Position": 85350,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.GroupAgony": {
+      "Tag": {
+        "Position": 85424,
+        "Value": {
+          "TagName": {
+            "Position": 85449,
+            "Value": {
+              "String": "Cosmetics.Set.GroupAgony"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 85490,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.GroupAgony_DisplayName",
+            "SourceString": "Team Heartbreak"
+          }
+        }
+      },
+      "Description": {
+        "Position": 85598,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.AreaFlame": {
+      "Tag": {
+        "Position": 85672,
+        "Value": {
+          "TagName": {
+            "Position": 85697,
+            "Value": {
+              "String": "Cosmetics.Set.AreaFlame"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 85738,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.AreaFlame_DisplayName",
+            "SourceString": "Space Fire"
+          }
+        }
+      },
+      "Description": {
+        "Position": 85840,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.TenderMonarch": {
+      "Tag": {
+        "Position": 85914,
+        "Value": {
+          "TagName": {
+            "Position": 85939,
+            "Value": {
+              "String": "Cosmetics.Set.TenderMonarch"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 85980,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.TenderMonarch_DisplayName",
+            "SourceString": "Set_01"
+          }
+        }
+      },
+      "Description": {
+        "Position": 86082,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.DudeGadgets": {
+      "Tag": {
+        "Position": 86156,
+        "Value": {
+          "TagName": {
+            "Position": 86181,
+            "Value": {
+              "String": "Cosmetics.Set.DudeGadgets"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 86222,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.DudeGadgets_DisplayName",
+            "SourceString": "Brobotics"
+          }
+        }
+      },
+      "Description": {
+        "Position": 86325,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.CrazyCowboy": {
+      "Tag": {
+        "Position": 86399,
+        "Value": {
+          "TagName": {
+            "Position": 86424,
+            "Value": {
+              "String": "Cosmetics.Set.CrazyCowboy"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 86465,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.CrazyCowboy_DisplayName",
+            "SourceString": "Wildest West"
+          }
+        }
+      },
+      "Description": {
+        "Position": 86571,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.EatingCraze": {
+      "Tag": {
+        "Position": 86645,
+        "Value": {
+          "TagName": {
+            "Position": 86670,
+            "Value": {
+              "String": "Cosmetics.Set.EatingCraze"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 86711,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.EatingCraze_DisplayName",
+            "SourceString": "Feeding Frenzy"
+          }
+        }
+      },
+      "Description": {
+        "Position": 86819,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.DevilIsland": {
+      "Tag": {
+        "Position": 86893,
+        "Value": {
+          "TagName": {
+            "Position": 86918,
+            "Value": {
+              "String": "Cosmetics.Set.DevilIsland"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 86959,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.DevilIsland_DisplayName",
+            "SourceString": "Demon Beach"
+          }
+        }
+      },
+      "Description": {
+        "Position": 87064,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.Slam": {
+      "Tag": {
+        "Position": 87138,
+        "Value": {
+          "TagName": {
+            "Position": 87163,
+            "Value": {
+              "String": "Cosmetics.Set.Slam"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 87204,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.Slam_DisplayName",
+            "SourceString": "Impact"
+          }
+        }
+      },
+      "Description": {
+        "Position": 87297,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.BurritoDay": {
+      "Tag": {
+        "Position": 87371,
+        "Value": {
+          "TagName": {
+            "Position": 87396,
+            "Value": {
+              "String": "Cosmetics.Set.BurritoDay"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 87437,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.BurritoDay_DisplayName",
+            "SourceString": "Taco Time"
+          }
+        }
+      },
+      "Description": {
+        "Position": 87539,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.SunMerc": {
+      "Tag": {
+        "Position": 87613,
+        "Value": {
+          "TagName": {
+            "Position": 87638,
+            "Value": {
+              "String": "Cosmetics.Set.SunMerc"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 87679,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.SunMerc_DisplayName",
+            "SourceString": "Moon Mercenaries"
+          }
+        }
+      },
+      "Description": {
+        "Position": 87785,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.HarshInvaders": {
+      "Tag": {
+        "Position": 87859,
+        "Value": {
+          "TagName": {
+            "Position": 87884,
+            "Value": {
+              "String": "Cosmetics.Set.HarshInvaders"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 87925,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.HarshInvaders_DisplayName",
+            "SourceString": "Rough Raiders"
+          }
+        }
+      },
+      "Description": {
+        "Position": 88034,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.LadyTreat": {
+      "Tag": {
+        "Position": 88108,
+        "Value": {
+          "TagName": {
+            "Position": 88133,
+            "Value": {
+              "String": "Cosmetics.Set.LadyTreat"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 88174,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.LadyTreat_DisplayName",
+            "SourceString": "Ms. Whip"
+          }
+        }
+      },
+      "Description": {
+        "Position": 88274,
         "Value": {
           "Text": {
             "CultureInvariantString": null
